@@ -24,6 +24,9 @@
 
 ## 🚀 Featured Projects  
 
+### 🎬 [Movie-Sentiment-Analyzer](https://github.com/AbhimanyuRajoriya/Movie-Sentiment-Analyzer)  
+A Flask web app that analyzes **movie review sentiments** (positive/negative) using a **Logistic Regression model** trained on the **NLTK movie reviews dataset**.  
+
 ### 🌤️ [Weather-App](https://github.com/AbhimanyuRajoriya/Weather-App)  
 A simple Android app built with Java + Retrofit2 to fetch real-time weather data using **OpenWeatherMap API**.  
 

@@ -17,12 +17,18 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-6F2DA8?style=for-the-badge&logo=transformers&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects  
+
+### 🤖 [AI-Text-Assistant](https://github.com/AbhimanyuRajoriya/AI-Text-Assistant)  
+A Streamlit web app that performs **text summarization**, **sentiment analysis**, and **Hindi translation** using **Hugging Face Transformers**.  
 
 ### 🎬 [Movie-Sentiment-Analyzer](https://github.com/AbhimanyuRajoriya/Movie-Sentiment-Analyzer)  
 A Flask web app that analyzes **movie review sentiments** (positive/negative) using a **Logistic Regression model** trained on the **NLTK movie reviews dataset**.  

@@ -26,6 +26,9 @@
 
 ## 🚀 Featured Projects  
 
+### 🤖 [AI-Research-Assistance](https://github.com/AbhimanyuRajoriya/AI-Research-Assistant)
+An interactive AI-powered PDF Research Assistant which helps you summarize, analyze, and ask questions about your PDF files using modern NLP models.
+
 ### 🤖 [AI-Text-Assistant](https://github.com/AbhimanyuRajoriya/AI-Text-Assistant)  
 A Streamlit web app that performs **text summarization**, **sentiment analysis**, and **Hindi translation** using **Hugging Face Transformers**.  
 

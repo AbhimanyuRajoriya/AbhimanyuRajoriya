@@ -26,6 +26,9 @@
 
 ## 🚀 Featured Projects  
 
+### 🎮 [Flappy-Bird](https://github.com/AbhimanyuRajoriya/Flappy-BIrd)
+A simple and smooth Flappy Bird clone built using Pygame.
+
 ### 🤖 [AI-Research-Assistance](https://github.com/AbhimanyuRajoriya/AI-Research-Assistant)
 An interactive AI-powered PDF Research Assistant which helps you summarize, analyze, and ask questions about your PDF files using modern NLP models.
 

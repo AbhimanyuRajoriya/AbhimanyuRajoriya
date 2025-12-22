@@ -26,9 +26,6 @@
 
 ## 🚀 Featured Projects  
 
-### 🎮 [Flappy-Bird](https://github.com/AbhimanyuRajoriya/Flappy-BIrd)
-A simple and smooth Flappy Bird clone built using Pygame.
-
 ### 🤖 [AI-Research-Assistance](https://github.com/AbhimanyuRajoriya/AI-Research-Assistant)
 An interactive AI-powered PDF Research Assistant which helps you summarize, analyze, and ask questions about your PDF files using modern NLP models.
 
@@ -43,6 +40,9 @@ A simple Android app built with Java + Retrofit2 to fetch real-time weather data
 
 ### 📝 [TodoApp-Android](https://github.com/AbhimanyuRajoriya/TodoApp-Android)  
 A fully functional To-Do List app with **SQLite, RecyclerView, swipe-to-delete, and ViewBinding**.  
+
+### 🎮 [Flappy-Bird](https://github.com/AbhimanyuRajoriya/Flappy-BIrd)
+A simple and smooth Flappy Bird clone built using Pygame.
 
 ### 🌐 [MitrcBlog](https://github.com/AbhimanyuRajoriya/MitrcBlog)  
 A blog page made for college **MITRC** using **HTML & CSS**.  

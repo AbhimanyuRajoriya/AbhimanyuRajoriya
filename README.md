@@ -69,14 +69,14 @@
 
 ## 🚀 Featured Projects  
 
+### 💻 [DevOps-Automation-Agent](https://github.com/AbhimanyuRajoriya/DevOps-Automation-Agent)
+An Automated Agent built in n8n that watches the workflow in github and suggests the solutions if workflow is failed with the help openAI API.
+
 ### 🤖 [AI-Research-Assistance](https://github.com/AbhimanyuRajoriya/AI-Research-Assistant)
 An interactive AI-powered PDF Research Assistant which helps you summarize, analyze, and ask questions about your PDF files using modern NLP models.
 
 ### 🤖 [AI-Text-Assistant](https://github.com/AbhimanyuRajoriya/AI-Text-Assistant)  
 A Streamlit web app that performs **text summarization**, **sentiment analysis**, and **Hindi translation** using **Hugging Face Transformers**.  
-
-### 🎬 [Movie-Sentiment-Analyzer](https://github.com/AbhimanyuRajoriya/Movie-Sentiment-Analyzer)  
-A Flask web app that analyzes **movie review sentiments** (positive/negative) using a **Logistic Regression model** trained on the **NLTK movie reviews dataset**. 
 
 ### 🛜 [NetDet - Network Monitoring System](https://github.com/AbhimanyuRajoriya/NetDet)
 An Android app that runs silently in the **background** and alerts you the moment your connection drops from **5G to 4G**. 
